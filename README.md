@@ -7,7 +7,7 @@ This data analysis will be using Python's Scrapy framework to scrape Indeed.com 
 
 After the web scraping of web pages linked to the search term `Data Science`, I will be analyzing the job description and generating a word cloud visualization of the top skills required for Data Science roles in Hong Kong.
 
-<img src="data/Generic_DataScienceWordCloud.jpeg" alt="Data Science Word Cloud" style="width: 500px;"/>
+<img src="data/Generic_DataScienceWordCloud.jpeg" width="400" height="790">
 
 ### Business Question: What are the main skills that a Data Scientist needs in Hong Kong?
 
