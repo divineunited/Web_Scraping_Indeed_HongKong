@@ -2,7 +2,9 @@
 *By Danny Vu*
 
 This data analysis will be using Python's Scrapy framework to scrape Indeed.com for Data Science Job Requirements. Indeed does have a [REST API](https://github.com/indeedassessments/api-documentation) but at the time of this writing, the API is still under construction so I will be performing web scraping.
+
 <img src="data/indeed-750.jpg" alt="Indeed.com" style="width: 300px;"/>
+
 After the web scraping of web pages linked to the search term `Data Science`, I will be analyzing the job description and generating a word cloud visualization of the top skills required for Data Science roles in Hong Kong.
 
 <img src="data/Generic_DataScienceWordCloud.jpeg" alt="Data Science Word Cloud" style="width: 500px;"/>
