@@ -13,7 +13,7 @@ After the web scraping of web pages linked to the search term `Data Science`, I 
 
 <img src="data/Data Science Life Cycle.png" width="400">
 
-### Part 1: Data Mining
+### Data Mining
 
 What is web scraping? It is extracting content from websites. First you need to study the website to know what information it has and where to get it from. Specifically, using HTML tags and CSS ids.
 
