@@ -10,7 +10,6 @@ math,90,20.41
 mandarin,77,17.46
 research,73,16.55
 statistics,71,16.1
-java,71,16.1
 cantonese,66,14.97
 machine learning,55,12.47
 fresh grad,48,10.88
@@ -25,11 +24,12 @@ unix,29,6.58
 linux,29,6.58
 javascript,29,6.58
 hadoop,24,5.44
- api,22,4.99
+java ,23,5.22
 data model,22,4.99
+ api,22,4.99
 html,22,4.99
-data mining,18,4.08
 tableau,18,4.08
+data mining,18,4.08
 spark,17,3.85
 css,16,3.63
 azure,16,3.63
@@ -46,23 +46,23 @@ mongodb,6,1.36
 masters,5,1.13
 nosql,5,1.13
 numpy,4,0.91
+data lake,2,0.45
+keras,2,0.45
 informatics,2,0.45
 pandas,2,0.45
-data lake,2,0.45
 postgres,2,0.45
-keras,2,0.45
-scikit,1,0.23
-nltk,1,0.23
-people skills,1,0.23
-recommendation systems,1,0.23
 calculus,1,0.23
-seaborn,1,0.23
+recommendation systems,1,0.23
+scikit,1,0.23
+people skills,1,0.23
+nltk,1,0.23
 algebra,1,0.23
-django,0,0.0
-jupyter,0,0.0
+seaborn,1,0.23
 bootstrap,0,0.0
 scrap,0,0.0
 pyspark,0,0.0
 d3.js,0,0.0
+django,0,0.0
 hortonworks,0,0.0
+jupyter,0,0.0
 wordpress,0,0.0
